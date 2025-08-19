@@ -1,1 +1,36 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Xt71iFOu)
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Aula 08</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#projetos">Projetos</a>
+    <a href="#contato">Contato</a>
+  </nav>
+
+  <section id="sobre">
+    <h2>Sobre mim</h2>
+    <p>Bem-vindo ao meu site pessoal!</p>
+  </section>
+
+  <section id="projetos">
+    <h2>Projetos</h2>
+    <p>Em breve!</p>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <form>
+      <label>Email: <input type="email" placeholder="seu@email.com"></label><br>
+      <button type="submit">Entrar</button>
+    </form>
+  </section>
+
+</body>
+</html>
+
